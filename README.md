@@ -14,3 +14,7 @@ PHP Laravel Document Complited
 
 # 1003 Changesの対応
 1003 Changesの対応　は　Commit　on Node List,Pagination Commplited 
+
+# #1004Changesの対応
+1004 Changesの対応　は　Commit　on Node Commplited,<Process is Temporarily Stoped> 
+And NEW PYTHON DOCUMENTATION WILL BE STATED 
