@@ -18,3 +18,7 @@ PHP Laravel Document Complited
 # #1004Changesの対応
 1004 Changesの対応　は　Commit　on Node Commplited,<Process is Temporarily Stoped> 
 And NEW PYTHON DOCUMENTATION WILL BE STATED 
+
+# #1005Changesの対応
+#1005Changesの対応　は　Commit　on Python If Condition Over , Then Change To For Loop,と
+NeelakandaさんのReact DocumentもCommit
